@@ -30,7 +30,7 @@ For more details, see the [Ragas GitHub](https://github.com/explodinggradients/r
    Open `ragas-testing.ipynb` in Jupyter and follow the instructions to run each cell. The notebook will:
    - Query your book index (via Elasticsearch)
    - Run sample RAG queries
-   - Evaluate the responses using RAGAS
+   - Evaluate the responses using Ragas
    - Output results to `ragas_evaluation_results.csv`
 
 3. **View Results**
