@@ -1,4 +1,4 @@
-# Ragas and Elasticsearch demo
+# Ragas and Elasticsearch Demo
 Ragas is a framework for evaluating RAG pipelines with human-aligned metrics. This repository contains a demo using a [sample book dataset from this notebook](https://github.com/justincastilla/book-search/blob/main/notebooks/local_embedding_example.ipynb) and shows an example using Elasticsearch.
 
 For more details, see the [Ragas GitHub](https://github.com/explodinggradients/ragas).
