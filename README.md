@@ -6,6 +6,7 @@ For more details, see the [Ragas GitHub](https://github.com/explodinggradients/r
 ## Setting up
 - The version of Python that is used is Python 3.12.1 but you can use any version of Python higher than 3.9.
 - This demo uses Elasticsearch version 9.0.3, but you can use any version of Elasticsearch that is higher than 8.0.
+- You will also need to have the sample dataset loaded as an index [using this notebook](https://github.com/justincastilla/book-search/blob/main/notebooks/local_embedding_example.ipynb).
 
 ## Stucture of the example
 - **ragas-testing.ipynb**: Main Jupyter notebook for running ragas evaluations. It sets up the environment, loads data, runs sample queries, and computes evaluation metrics (context precision, faithfulness, answer relevancy) using ragas.
