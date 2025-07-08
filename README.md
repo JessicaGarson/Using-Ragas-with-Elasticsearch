@@ -7,9 +7,6 @@ For more details, see the [Ragas GitHub](https://github.com/explodinggradients/r
 - The version of Python that is used is Python 3.12.1 but you can use any version of Python higher than 3.9.
 - This demo uses Elasticsearch version 9.0.3, but you can use any version of Elasticsearch that is higher than 8.0.
 
-## Dataset
-
-
 ## Stucture of the example
 - **[books.json](books.json)**: The dataset used containing an sample of books.
 - **[ragas-elasticsearch-demo.ipynb](ragas-elasticsearch-demo.ipynb)**: Main Jupyter notebook for running ragas evaluations. It sets up the environment, loads data, runs sample queries, and computes evaluation metrics (context precision, faithfulness, answer relevancy) using ragas.
