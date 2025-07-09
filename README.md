@@ -1,5 +1,5 @@
 # Using Ragas with Elasticsearch
-Ragas is a framework for evaluating RAG pipelines with human-aligned metrics. This repository contains a demo using a sample book dataset.
+Ragas is a framework for evaluating RAG pipelines with human-aligned metrics. This repository contains a demo using a sample book dataset and Elasticsearch.
 
 For more details, see the [Ragas GitHub](https://github.com/explodinggradients/ragas).
 
