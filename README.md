@@ -1,11 +1,12 @@
 # Using Ragas with Elasticsearch
-Ragas is a framework for evaluating RAG pipelines with human-aligned metrics. This repository contains a demo using a sample book dataset and Elasticsearch.
+Ragas is an evaluation framework that enables you to gain a deeper understanding of how your model performs in an RAG context. Using evaluation methods, such as the Ragas framework, can help you determine if your model is performing as intended and provide a sense of its accuracy. Ragas can help guide you in deciding whether to pivot to another model if it's not performing as well as expected and can be used for side-by-side comparisons of different models to evaluate how well each model works for your purposes.  
 
-For more details, see the [Ragas GitHub](https://github.com/explodinggradients/ragas).
+This repository contains a demo using a sample book dataset and Elasticsearch.
 
 ## Setting up
 - The version of Python that is used is Python 3.12.1 but you can use any version of Python higher than 3.9.
 - This demo uses Elasticsearch version 9.0.3, but you can use any version of Elasticsearch that is higher than 8.0.
+- You will need an OpenAI API Key, which you can find on the API keys page in OpenAI's developer portal.
 
 ## Stucture of the example
 - **[books.json](books.json)**: The dataset used containing an sample of books.
