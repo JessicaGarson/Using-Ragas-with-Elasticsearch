@@ -5,7 +5,7 @@ This repository contains a demo using a sample book dataset and Elasticsearch.
 
 ## Setting up
 - The version of Python that is used is Python 3.12.1 but you can use any version of Python higher than 3.10.
-- This demo uses Elasticsearch version 9.0.3, but you can use any version of Elasticsearch that is higher than 8.0.
+- This demo uses Elasticsearch version 9.0.3, but you can use any version of Elasticsearch that is higher than 8.10.
 - You will also need an OpenAI API key for LLM-based metrics. You will want to configure an environment variable for your OpenAI API Key, which you can find on the API keys page in [OpenAI's developer portal](https://platform.openai.com/api-keys).
 
 ## Stucture of the example
