@@ -43,4 +43,4 @@ chat_llm = ChatOpenAI(
 
 5. **View Results**
    
-   The results file contains detailed metrics for each test query. Use it to analyze the quality of your RAG pipeline and compare different configurations.
+   The results file contains detailed metrics for each test query. Use it to analyze the quality of your RAG pipeline and compare different configurations. The results will also be outputted as a `csv` file.
