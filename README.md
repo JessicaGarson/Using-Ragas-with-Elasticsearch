@@ -1,5 +1,5 @@
 # Using Ragas with Elasticsearch
-Ragas is an evaluation framework that enables you to gain a deeper understanding of how your model performs in an RAG context. Using evaluation methods, such as the Ragas framework, can help you determine if your model is performing as intended and provide a sense of its accuracy. Ragas can help guide you in deciding whether to pivot to another model if it's not performing as well as expected and can be used for side-by-side comparisons of different models to evaluate how well each model works for your purposes.  
+Ragas is an evaluation framework that enables you to gain a deeper understanding of how your LLM application performs. Using evaluation methods, such as the Ragas framework, can help you determine if your LLM application is performing as intended and provide a sense of its accuracy. It can enable data-driven decisions about model selection, prompt engineering effectiveness, and retrieval system optimization.
 
 This repository contains a demo using a sample book dataset and Elasticsearch.
 
